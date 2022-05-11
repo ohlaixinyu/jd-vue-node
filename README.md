@@ -11,7 +11,7 @@
 
 本项目仅用于学习交流
 
-**【交流QQ群】741461129**
+【交流QQ群】741461129
 
 #### 功能：
 
@@ -39,25 +39,25 @@
 
 #### 展示：
 
-<img src="https://imgtu.com/i/OdM89x" alt="1231" style="zoom:50%;" />
+<img src="https://github.com/ohlaixinyu/vue-jd.git/readmeImg/1231.png" alt="1231" style="zoom:50%;" />
 
 
 
 
 
-<img src="https://imgtu.com/i/OdMRbQ" alt="184245" style="zoom:50%;" />
+<img src="./readmeImg/184245.png" alt="184245" style="zoom:50%;" />
 
 
 
 
 
-<img src="https://imgtu.com/i/OdMo80" alt="184408" style="zoom: 50%;" />
+<img src="./readmeImg/184408.png" alt="184408" style="zoom: 50%;" />
 
 
 
 
 
-<img src="https://imgtu.com/i/OdMXVJ" alt="184507" style="zoom:50%;" />
+<img src="./readmeImg/184507.png" alt="184507" style="zoom:50%;" />
 
 
 
