@@ -41,19 +41,19 @@
 
 首页：
 
-<img src="https://s2.loli.net/2022/05/12/RIoqUE4vJXs7GnF.png" alt="1231" style="zoom: 33%;" />
+<img src="https://s2.loli.net/2022/05/12/RIoqUE4vJXs7GnF.png" alt="1231" style="width:200px;" />
 
 
 
 分类：
 
-<img src="https://s2.loli.net/2022/05/12/xECRngPjvX8pByo.png" alt="184245" style="zoom: 33%;" />
+<img src="https://s2.loli.net/2022/05/12/xECRngPjvX8pByo.png" alt="184245" style="width:200px;" />
 
 
 
 购物车：
 
-<img src="https://s2.loli.net/2022/05/12/3kKNqT91bIwLXtE.png" alt="184408" style="zoom: 33%;" />
+<img src="https://s2.loli.net/2022/05/12/3kKNqT91bIwLXtE.png" alt="184408" style="width:200px;" />
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-<img src="https://s2.loli.net/2022/05/12/JRywDTEXQb9srKj.png" alt="184507" style="zoom: 33%;" />
+<img src="https://s2.loli.net/2022/05/12/JRywDTEXQb9srKj.png" alt="184507" style="width:200px;" />
 
 
 
