@@ -39,7 +39,7 @@
 
 #### 展示：
 
-<img src="https://github.com/ohlaixinyu/vue-jd.git/readmeImg/1231.png" alt="1231" style="zoom:50%;" />
+<img src="https://s2.loli.net/2022/05/12/RIoqUE4vJXs7GnF.png" alt="1231" style="zoom:50%;" />
 
 
 
